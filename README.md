@@ -8,6 +8,10 @@
 - React Ticker
 - Material UI
 
+## Images. 
+<img width="401" alt="Screen Shot 2020-08-08 at 6 01 01 PM" src="https://user-images.githubusercontent.com/54118716/89720551-34fa4380-d9a1-11ea-83c0-99f2aa829221.png">
+<img width="396" alt="Screen Shot 2020-08-08 at 6 01 14 PM" src="https://user-images.githubusercontent.com/54118716/89720553-375c9d80-d9a1-11ea-8691-709a1185886c.png">
+
 
 
 
