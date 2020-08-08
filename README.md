@@ -1,7 +1,7 @@
 ## TikTok project. 
 
 
-** This is a TIKTOK project that displays three different videos. You can click on the video to play/pause it. You can also like the video. Scroll down to watch the other videos. 
+- This is a TIKTOK project that displays three different videos. You can click on the video to play/pause it. You can also like the video. Scroll down to watch the other videos. 
 
 ## The app uses the followings :
 - React Hooks
