@@ -1,15 +1,16 @@
-html{
+html {
   scroll-snap-type: y mandatory;
 }
-.app{
-  background-color: #282c34;;
+.app {
+  background-image: url("./vids/Untitled-1.jpg");
+  background-position: center center;
+  background-size: cover;
   display: grid;
   height: 100vh;
   place-items: center;
-
 }
 
-.app__videos{
+.app__videos {
   position: relative;
   height: 800px;
   overflow: scroll;
@@ -18,7 +19,6 @@ html{
   max-width: 500px;
   scroll-snap-type: y mandatory;
 }
-
 
 /* Hide scrollbar for Chrome, Safari and Opera */
 .app__videos::-webkit-scrollbar {
